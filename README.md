@@ -2,6 +2,8 @@
 
 #Themes used:
 - Tomorrow / Tomorrow Night
+- Cube2Media
+- WebExPert
 - Solarized Light
 - Solarized Dark
 - Oceanic
