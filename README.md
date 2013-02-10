@@ -10,5 +10,6 @@
 - Washtub
 - Made of Code
 - Railscasts 2
+- IR White
 
-Most of them are mods trying to perfectly fit the Soda theme for Sublime Text 2 or use Solarized backgrounds on a nice colorscheme.
+Most of them are mods trying to perfectly fit the Soda theme for Sublime Text 2 or use Solarized backgrounds on an existing background.
