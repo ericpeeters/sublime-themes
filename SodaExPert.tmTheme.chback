@@ -5,16 +5,7 @@
 	<key>name</key>
 	<string>SodaExPert - mod by Eric Peeters</string>
 	<key>settings</key>
-	<array><dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_141414FF</string><key>settings</key><dict><key>background</key><string>#141414FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_11EE11FF</string><key>settings</key><dict><key>background</key><string>#11EE11FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_1E1E1EFF</string><key>settings</key><dict><key>background</key><string>#1E1E1EFF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_141414FF</string><key>settings</key><dict><key>background</key><string>#141414FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_11EE11FF</string><key>settings</key><dict><key>background</key><string>#11EE11FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_1E1E1EFF</string><key>settings</key><dict><key>background</key><string>#1E1E1EFF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_141414FF</string><key>settings</key><dict><key>background</key><string>#141414FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_11EE11FF</string><key>settings</key><dict><key>background</key><string>#11EE11FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_1E1E1EFF</string><key>settings</key><dict><key>background</key><string>#1E1E1EFF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-
+	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
