@@ -1,11 +1,9 @@
 ### tmTheme MODs by Eric Peeters
 
-#Themes used:
+#Themes used
 - Tomorrow / Tomorrow Night
 - Cube2Media
 - WebExPert
-- Solarized Light
-- Solarized Dark
 - Oceanic
 - Birds of Paradise
 - Coda
@@ -14,4 +12,4 @@
 - Railscasts 2
 - IR White
 
-Most of them are mods trying to perfectly fit the Soda theme for Sublime Text 2 or use Solarized backgrounds on an existing background.
+Collection of modded themes, background is either Solarized or Soda Dark
