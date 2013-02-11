@@ -4,11 +4,9 @@
 - Tomorrow / Tomorrow Night
 - Cube2Media
 - WebExPert
-- Oceanic
 - Birds of Paradise
 - Coda
 - Washtub
-- Made of Code
 - Railscasts 2
 - IR White
 
